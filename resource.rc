@@ -1,0 +1,6 @@
+GAME_ICON ICON "icon.ico"
+
+SYSFONT  FONTFILE "./material/migmix-1m-regular.ttf"
+DOTFONT  FONTFILE "./material/misaki_gothic.ttf"
+SYSIMG   IMAGE    "./material/material.png"
+SYSSOUND SOUND    "./material/BigPresent.ogg"
